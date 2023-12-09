@@ -18,7 +18,7 @@ for data in new_list:
     ori_path = path+"\\"+data
     copy(ori_path,save_dir)
 
-print("ok")   
+#print("ok")   
 
 
 
